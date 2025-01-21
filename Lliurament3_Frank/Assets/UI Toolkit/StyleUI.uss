@@ -1,0 +1,10 @@
+.Texto {
+    color: rgb(255, 229, 0);
+    -unity-text-outline-color: rgb(190, 120, 0);
+    -unity-text-outline-width: 1px;
+    font-size: 120px;
+    width: 320px;
+    height: 150px;
+    -unity-text-align: middle-center;
+    align-self: center;
+}
