@@ -1,1 +1,1 @@
-This is a homework project about basic code programing intended to be used to experiment with github
+This is a homework project about basic code programing in Unity, texturing and animation
